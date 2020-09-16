@@ -1,1 +1,5 @@
 hello make this as first file and first commit
+
+add more lines 
+ and see the difference before committing it git repository
+
